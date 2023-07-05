@@ -1,5 +1,5 @@
 # Castlevania Advance Collection Website
-![Website Home](https://github.com/nickespindola/Castlevania/assets/92181835/2aa9c14a-39e1-448b-a540-303e6338c293)
+![Website Home](assets/home_screenshot.png)
 
 My first website project, based on the Castlevania Advance Collection. Held on December 6, 2021
 
